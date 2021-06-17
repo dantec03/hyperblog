@@ -1,2 +1,3 @@
-# hyperblog
-Un curso increíble para  el curso de git y github de platzi
+Al fin te atrape esponja 
+
+Me voy a jugar lol, descansa
